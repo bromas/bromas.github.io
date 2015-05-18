@@ -1,0 +1,12 @@
+# Site settings
+title: Introspectate
+email: bromas.dev@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  My thoughts on Cocoa, Swift, and coding in general.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://bromas.github.io" # the base hostname & protocol for your site
+twitter_username: atomos86
+github_username:  bromas
+
+# Build settings
+markdown: kramdown
